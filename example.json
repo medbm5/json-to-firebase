@@ -1,0 +1,29 @@
+{
+    "serie2":{
+    "name": "the film hh ",
+    "releaseDate":"10/01/2021",
+    "story":"blablabla",
+    "is_movie":false,
+    "language":"turkish",
+    "highestQuality":"1080p",
+    "episodesList":[
+      {
+        "episodeTitle":"the filme hh",
+        "episodeOrdre":1,
+        "episodeDuration":"123",
+        "streamingUrls":[
+          {
+            "url":"mediafire.com/uid",
+            "quality":"1080P",
+            "websiteName":"MediaFire"
+          },
+          {
+            "url":"mediafire.com/uid",
+            "quality":"720P",
+            "websiteName":"MediaFire"
+          }
+        ]
+      }
+    ]
+    }
+}

@@ -1,0 +1,327 @@
+{
+  "light_list_of_shows": {
+    "1": {
+      "name": "Pulp Fiction",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "id": "movie1",
+      "is_movie": true
+    },
+    "2": {
+      "name": "Silicon Valley",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTcwNzU2MGEtMzUzNC00MzMwLWJhZGItNDY3NDllYjU5YzAyXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg",
+      "id": "serie1",
+      "is_movie": false
+    },
+    "3": {
+      "name": "The Silence of the Lambs",
+      "imageUrl": 	"https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "id": "movie2",
+      "is_movie": true
+    },
+    "4": {
+      "name": "Sons of Anarchy",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTEyODg2NzkwMDBeQTJeQWpwZ15BbWU4MDQwODI3MzIx._V1_SX300.jpg",
+      "id": "serie2",
+      "is_movie": false
+    },
+    "5": {
+      "name": "Inception",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+      "id": "movie3",
+      "is_movie": true
+    }
+  },
+  "comingSoonDates": {},
+  "movies": {
+    "movie1": {
+      "name": "Pulp Fiction",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "actors": [
+        "Tim Roth",
+        "Amanda Plummer",
+        "Laura Lovelace",
+        "John Travolta"
+      ],
+      "releaseDate": "14 Oct 1994",
+      "story": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "is_movie": true,
+      "language": "English",
+      "highestQuality": "1080p",
+      "episodesList": [
+        {
+          "episodeTitle": "Pulp Fiction",
+          "episodeOrdre": 0,
+          "episodeDuration": "154 min",
+          "streamingUrls": [
+            {
+              "url": "https://doc-00-68-docs.googleusercontent.com/docs/securesc/hkqjvg8v4urmi0mhervhi43f4k31d5d3/l04eto0b1sp2thmo63jgrkgva6pe6c1l/1608390375000/14371223614289351640/17809779267212307562/11gZHUVITZfc8VsBn-sA-KuJEyNVRvnUl?e=download&authuser=0&nonce=ro0p75ah5ol76&user=17809779267212307562&hash=aranhrng736t8jmmriqedf4ohrs4km09",
+              "quality": "720P",
+              "websiteName": "Google Drive"
+            },
+            {
+              "url": "https://doc-00-68-docs.googleusercontent.com/docs/securesc/hkqjvg8v4urmi0mhervhi43f4k31d5d3/l04eto0b1sp2thmo63jgrkgva6pe6c1l/1608390375000/14371223614289351640/17809779267212307562/11gZHUVITZfc8VsBn-sA-KuJEyNVRvnUl?e=download&authuser=0&nonce=ro0p75ah5ol76&user=17809779267212307562&hash=aranhrng736t8jmmriqedf4ohrs4km09",
+              "quality": "720P",
+              "websiteName": "MediaFire"
+            }
+          ]
+        }
+      ]
+    },
+    "movie2": {
+      "name": "The Silence of the Lambs",
+      "imgUrl": 	"https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "actors": [
+        "Jodie Foster", "Lawrence A. Bonney", "Kasi Lemmons", "Lawrence T. Wrentz"
+      ],
+      "releaseDate": "14 Feb 1991",
+      "story": 	"A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "is_movie": true,
+      "language": "English",
+      "highestQuality": "1080p",
+      "episodesList": [
+        {
+          "episodeTitle": "The Silence of the Lambs",
+          "episodeOrdre": 0,
+          "episodeDuration": "118 min",
+          "streamingUrls": [
+            {
+              "url": "https://doc-00-68-docs.googleusercontent.com/docs/securesc/hkqjvg8v4urmi0mhervhi43f4k31d5d3/l04eto0b1sp2thmo63jgrkgva6pe6c1l/1608390375000/14371223614289351640/17809779267212307562/11gZHUVITZfc8VsBn-sA-KuJEyNVRvnUl?e=download&authuser=0&nonce=ro0p75ah5ol76&user=17809779267212307562&hash=aranhrng736t8jmmriqedf4ohrs4km09",
+              "quality": "720P",
+              "websiteName": "Google Drive"
+            },
+            {
+              "url": "https://doc-00-68-docs.googleusercontent.com/docs/securesc/hkqjvg8v4urmi0mhervhi43f4k31d5d3/l04eto0b1sp2thmo63jgrkgva6pe6c1l/1608390375000/14371223614289351640/17809779267212307562/11gZHUVITZfc8VsBn-sA-KuJEyNVRvnUl?e=download&authuser=0&nonce=ro0p75ah5ol76&user=17809779267212307562&hash=aranhrng736t8jmmriqedf4ohrs4km09",
+              "quality": "720P",
+              "websiteName": "MediaFire"
+            }
+          ]
+        }
+      ]
+    },
+    "movie3": {
+      "name": "Inception",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+      "actors": [
+        "Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page", "Tom Hardy"
+      ],
+      "releaseDate": "16 Jul 2010",
+      "story": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "is_movie": true,
+      "language": "English",
+      "highestQuality": "1080p",
+      "episodesList": [
+        {
+          "episodeTitle": "Inception",
+          "episodeOrdre": 0,
+          "episodeDuration": "154 min",
+          "streamingUrls": [
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1Dl4YU7C0_v46BV3uHWlUo2AP2TTWDczR",
+              "quality": "720P",
+              "websiteName": "Google Drive"
+            },
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1Dl4YU7C0_v46BV3uHWlUo2AP2TTWDczR",
+              "quality": "720P",
+              "websiteName": "MediaFire"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "series": {
+    "serie1": {
+      "name": "Silicon Valley",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTcwNzU2MGEtMzUzNC00MzMwLWJhZGItNDY3NDllYjU5YzAyXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg",
+      "actors": [
+        "Thomas Middleditch",
+        "Josh Brener",
+        "Martin Starr",
+        "Kumail Nanjiani"
+      ],
+      "releaseDate": "06 Apr 2014",
+      "story": "Follows the struggle of Richard Hendricks, a Silicon Valley engineer trying to build his own company called Pied Piper.",
+      "is_movie": false,
+      "language": "English",
+      "highestQuality": "720P",
+      "episodesList": [
+        {
+          "episodeTitle": "Minimum Viable Product",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BYWIyODUxOTItOTYwNS00Mjc4LWI4ZjUtNWQ2YWVmNWQ1MmViXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+          "episodeOrdre": 1,
+          "episodeDuration": "30 min",
+          "streamingUrls": [
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1Dl4YU7C0_v46BV3uHWlUo2AP2TTWDczR",
+              "quality": "720P",
+              "websiteName": "Google Drive"
+            },
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1Dl4YU7C0_v46BV3uHWlUo2AP2TTWDczR",
+              "quality": "720P",
+              "websiteName": "MediaFire"
+            }
+          ]
+        },
+        {
+          "episodeTitle": "The Cap Table",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTFkMjI4OGItYmY3ZC00NGU4LTgwMzUtNWNjNTBlNWE4ZTJmXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+          "episodeOrdre": 2,
+          "episodeDuration": "29 min",
+          "streamingUrls": [
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1zRXuaLT4k_5GcIK-Kr79SjeF0aShLsUP",
+              "quality": "1080P",
+              "websiteName": "Google Drive"
+            },
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1zRXuaLT4k_5GcIK-Kr79SjeF0aShLsUP",
+              "quality": "720P",
+              "websiteName": "MediaFire"
+            }
+          ]
+        },
+        {
+          "episodeTitle": "Articles of Incorporation",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BNzAzM2M3ZGYtYmFlNC00NzY5LTg2MGYtMTlhMmNiN2YzZTA4XkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+          "episodeOrdre": 3,
+          "episodeDuration": "28 min",
+          "streamingUrls": [
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1AjLkCgYFtzjVK7HAYtKZ89AhNaR5U5x1",
+              "quality": "720P",
+              "websiteName": "Google Drive"
+            },
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1AjLkCgYFtzjVK7HAYtKZ89AhNaR5U5x1",
+              "quality": "720P",
+              "websiteName": "MediaFire"
+            }
+          ]
+        }
+      ]
+    },
+    "serie2": {
+      "name": "Sons Of Anarchy",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTEyODg2NzkwMDBeQTJeQWpwZ15BbWU4MDQwODI3MzIx._V1_SX300.jpg",
+      "actors": [
+        "Charlie Hunnam", "Katey Sagal", "Mark Boone Junior", "Kim Coates"
+      ],
+      "releaseDate": "03 Sep 2008",
+      "story": "A biker struggles to balance being a father and being involved in an outlaw motorcycle club.",
+      "is_movie": false,
+      "language": "English",
+      "highestQuality": "720P",
+      "episodesList": [
+        {
+          "episodeTitle": "Pilot",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTQyNTEwNTA0OV5BMl5BanBnXkFtZTgwNzUwODczMjE@._V1_SX300.jpg",
+          "episodeOrdre": 1,
+          "episodeDuration": "56 min",
+          "streamingUrls": [
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1pCgowxL4D4sNDcK7hE5-Tegh7e1ZJv33",
+              "quality": "720P",
+              "websiteName": "Google Drive"
+            },
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1pCgowxL4D4sNDcK7hE5-Tegh7e1ZJv33",
+              "quality": "720P",
+              "websiteName": "MediaFire"
+            }
+          ]
+        },
+        {
+          "episodeTitle": "Seeds",
+          "imgUrl": 	"https://m.media-amazon.com/images/M/MV5BODg2NTQwNDM0NV5BMl5BanBnXkFtZTgwNDgwOTczMjE@._V1_SX300.jpg",
+          "episodeOrdre": 2,
+          "episodeDuration": "46 min",
+          "streamingUrls": [
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1pCgowxL4D4sNDcK7hE5-Tegh7e1ZJv33",
+              "quality": "720P",
+              "websiteName": "Google Drive"
+            },
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1pCgowxL4D4sNDcK7hE5-Tegh7e1ZJv33",
+              "quality": "720P",
+              "websiteName": "MediaFire"
+            }
+          ]
+        },
+        {
+          "episodeTitle": "Fun Town",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTg4MzAzMDY0Nl5BMl5BanBnXkFtZTgwMzI2MjgzMjE@._V1_SX300.jpg",
+          "episodeOrdre": 3,
+          "episodeDuration": "55 min",
+          "streamingUrls": [
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1pCgowxL4D4sNDcK7hE5-Tegh7e1ZJv33",
+              "quality": "720P",
+              "websiteName": "Google Drive"
+            },
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1pCgowxL4D4sNDcK7hE5-Tegh7e1ZJv33",
+              "quality": "720P",
+              "websiteName": "MediaFire"
+            }
+          ]
+        },
+        {
+          "episodeTitle": "Patch Over",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTY5NDc5NzUxOV5BMl5BanBnXkFtZTgwMDE2MjgzMjE@._V1_SX300.jpg",
+          "episodeOrdre": 4,
+          "episodeDuration": "55 min",
+          "streamingUrls": [
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1pCgowxL4D4sNDcK7hE5-Tegh7e1ZJv33",
+              "quality": "720P",
+              "websiteName": "Google Drive"
+            },
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1pCgowxL4D4sNDcK7hE5-Tegh7e1ZJv33",
+              "quality": "720P",
+              "websiteName": "MediaFire"
+            }
+          ]
+        },
+        {
+          "episodeTitle": "Giving Back",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTgyMjM0MzU1MV5BMl5BanBnXkFtZTgwOTQ2MjgzMjE@._V1_SX300.jpg",
+          "episodeOrdre": 5,
+          "episodeDuration": "55 min",
+          "streamingUrls": [
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1pCgowxL4D4sNDcK7hE5-Tegh7e1ZJv33",
+              "quality": "720P",
+              "websiteName": "Google Drive"
+            },
+            {
+              "url": "https://drive.google.com/uc?export=download&id=1pCgowxL4D4sNDcK7hE5-Tegh7e1ZJv33",
+              "quality": "720P",
+              "websiteName": "MediaFire"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "users": {
+    "user1": {
+      "favourites": [
+        "movie1",
+        "movie3"
+      ],
+      "wished": [
+        "movie2"
+      ],
+      "watchingNow": [
+        "movie1"
+      ],
+      "lastWatchedList": [
+        "movie3"
+      ]
+    }
+  }
+}
